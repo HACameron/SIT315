@@ -1,5 +1,5 @@
 const int led = 13; //LED positive terminal to the digital pin 13
-const int sensor = 2; //Signal pin of sensor to digital pin 5
+const int sensor = 2; //Signal pin of sensor to digital pin 2
 volatile int state = LOW;
 
 void setup() {
